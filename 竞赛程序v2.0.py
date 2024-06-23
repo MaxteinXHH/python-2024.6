@@ -17,7 +17,7 @@ from tkinter.messagebox import *
 import webbrowser
 
 
-
+#********************************************       Prohibition of plagiarism          ************************************&
 
 print("开始......")
 
