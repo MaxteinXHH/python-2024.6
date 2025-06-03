@@ -317,7 +317,7 @@ def cse9():
     url = "https://www.phb123.com/renwu/fuhao/shishi.html"
     webbrowser.open(url, new=2, autoraise=True)
 def cse13():
-    url = "https://mhaoma.baidu.com/pages/search-page/search-page?srcid=10685&query=19836036040"
+    url = "https://mhaoma.baidu.com/pages/search-page/search-page?srcid=10685&query=17364686746"
     webbrowser.open(url, new=2, autoraise=True)
 def cse14():
     url = "https://github.com/MaxteinXHH/python-2024.6/issues/1"
