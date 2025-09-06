@@ -1,3 +1,16 @@
+#席好东
+
+#联系我 https://maxteinxhh.github.io/fun/xhd.html
+
+#我的网站 https://maxteinxhh.github.io/Xis-haohao/web/xishao.html
+
+
+
+
+
+
+
+
 import requests
 import re
 from bs4 import BeautifulSoup  
@@ -420,4 +433,5 @@ statusbar = tk.Label(status_frame, text="就绪", anchor=tk.W)
 statusbar.pack(side=tk.LEFT, fill=tk.X, expand=True, padx=5)
 
 root.mainloop()
+
 
