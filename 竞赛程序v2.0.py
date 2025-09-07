@@ -30,8 +30,8 @@ from tkinter.messagebox import *
 import webbrowser
 
 
-#********************************************       Prohibition of plagiarism          ************************************&
-
+#********          我拥有该代码和所有内容的所有权。为了方便您使用我们的内容，我们授予您特定的参阅权利，但您只能以我们允许的方式使用我们的内容。     *************
+、
 print("开始......")
 
 
@@ -433,5 +433,6 @@ statusbar = tk.Label(status_frame, text="就绪", anchor=tk.W)
 statusbar.pack(side=tk.LEFT, fill=tk.X, expand=True, padx=5)
 
 root.mainloop()
+
 
 
