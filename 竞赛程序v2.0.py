@@ -36,7 +36,7 @@ from tkinter.messagebox import *
 import webbrowser
 
 
-#********          我拥有该代码和所有内容的所有权。为了方便您使用我们的内容，我们授予您特定的参阅权利，但您只能以我们允许的方式使用我们的内容。     *************
+#********          Copyright © [2024-2025] [xis-hao].CC BY-NC-ND 4.0     *************
 、
 print("开始......")
 
