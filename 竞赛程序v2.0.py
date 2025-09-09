@@ -1,17 +1,12 @@
-#席hd
-
-#联系我 https://maxteinxhh.github.io/fun/xhd.html
-
-#我的网站 https://maxteinxhh.github.io/Xis-haohao/web/xishao.html
+#好
 
 #  2024.6 python竞赛作品。
 
 #这是一个使用 Python 编写的竞赛程序 v2.0.py ，主要用于对福布斯全球富豪榜实时数据进行分析和展示
 
-#演示视频请移至
-# https://www.bilibili.com/video/BV1pXYGz3EED/?share_source=copy_web
+#演示视频请移至  https://www.bilibili.com/video/BV1pXYGz3EED/?share_source=copy_web
 
-
+#联系我  mailto:xis-hao@outlook.com
 
 
 
@@ -439,6 +434,7 @@ statusbar = tk.Label(status_frame, text="就绪", anchor=tk.W)
 statusbar.pack(side=tk.LEFT, fill=tk.X, expand=True, padx=5)
 
 root.mainloop()
+
 
 
 
